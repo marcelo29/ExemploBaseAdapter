@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/masasp29/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/masasp29/Google Drive/5Semestre/Android II/ExemploBaseAdapter/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-d7a9e0a411d5049b1ff33d51e4daef39718c1533.jar" />
+    </item>
+
+</items>
